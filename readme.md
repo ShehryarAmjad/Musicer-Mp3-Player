@@ -6,7 +6,7 @@ You can play / pause, next / previous MP3 songs at the same time increase and de
 
 ## How to Download
 
-Download this project from here [Download Musicer - Music Player](https://downgit.github.io/#/home?url=https://github.com/pyGuru123/Python-Projects/tree/master/Musicxy%20-%20Music%20Player)
+Download this project from here [Download Musicer - Music Player](https://github.com/ShehryarAmjad/Musicer-Mp3-Player/archive/refs/heads/main.zip)
 
 ## Requirements
 
